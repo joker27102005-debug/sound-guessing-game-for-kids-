@@ -25,6 +25,7 @@ dev_dependencies:
   path: ^1.8.3
   audioplayers: ^5.2.1
 
+
 flutter:
   uses-material-design: true
 

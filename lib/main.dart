@@ -6,7 +6,7 @@ import 'features/home/screens/home_screen.dart';
 import 'features/game/screens/game_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
